@@ -133,6 +133,7 @@ Enter the following into your Terminal:
 4.  While you are here on GitHub, let's fork this repository. Yes, **this** repo you are currently on! Click on the `Fork` button, and on the resulting page copy the URL link of your brand new fork.
 5.  Back in the terminal, make sure you are in your parent `301` folder and `git clone your-URL yourName-fork-301` (where `your-URL` is the URL of your forked repo you just copied, and `yourName-fork-301` will be the new name for this local repository you are about to clone (ex: brians-fork-301).
 6.  After the cloning completes, `cd` into this repo.
-7.  Type `git remote -v` to verify that your `origin` remote points to your GitHub account's forked 301 repo.
+7.  Type `git remote add upstream https://github.com/codefellows/seattle-301d4.git` to enable quick access to future updates.
+7.  Type `git remote -v` to verify that your `origin` remote points to your GitHub account's forked 301 repo, and that your `upstream` remote points to the codefellows account.
 
 Congrats! You're all done.
