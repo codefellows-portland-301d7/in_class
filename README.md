@@ -129,9 +129,12 @@ Enter the following into your Terminal:
  
 1.  `mkdir 301` - this will be your parent folder to house your **fork** of the class repo.
 2.  `cd 301`
-3.  `mkdir navigator` - we value pair programming! On days where you are the navigator, you will clone your partner's fork of the assignment repo in this navigator folder.
+3.  `mkdir pair-assignments`
+4.  `cd pair-assignments`
+5.  `mkdir driver`
+3.  `mkdir navigator` - we value pair programming! On days where you are the navigator, you will clone your partner's fork of the assignment repo into this navigator folder.
 4.  While you are here on GitHub, let's fork this repository. Yes, **this** repo you are currently on! Click on the `Fork` button, and on the resulting page copy the URL link of your brand new fork.
-5.  Back in the terminal, make sure you are in your parent `301` folder and `git clone your-URL yourName-fork-301` (where `your-URL` is the URL of your forked repo you just copied, and `yourName-fork-301` will be the new name for this local repository you are about to clone (ex: brians-fork-301).
+5.  Back in the terminal, make sure you are in the root of your parent `301` folder ( you may need to `cd ..` once) and `git clone your-URL yourName-fork-301` (where `your-URL` is the URL of your forked repo you just copied, and `yourName-fork-301` will be the new name for this local repository you are about to clone (ex: brians-fork-301).
 6.  After the cloning completes, `cd` into this repo.
 7.  Type `git remote add upstream https://github.com/codefellows/seattle-301d4.git` to enable quick access to future updates.
 7.  Type `git remote -v` to verify that your `origin` remote points to your GitHub account's forked 301 repo, and that your `upstream` remote points to the codefellows account.
