@@ -1,4 +1,4 @@
-# Portfolio Assignment for Class 3 - Mobile-First and Responsive Design
+# Portfolio Assignment - Mobile-First and Responsive Design
 
 Follow along with these user stories to make sure your portfolio looks good on any sized device.
 
