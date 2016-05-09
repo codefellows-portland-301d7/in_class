@@ -12,7 +12,7 @@ Some hints to get going:
 - This app will be structured very similarly to the blog code you worked with in your pair assignment.
 - Start with a **rough** pen & paper "wireframe" sketch of what you want your portfolio site to look like.
 - Work through as many of the user stories as you can, but always submit what you have by the due date. Don't let "if only..." ideas keep you from turning something in!
-- Add the [.eslintrc](https://github.com/codefellows/sea-301d1/blob/master/.eslintrc) config file to the root of your repo, so we are all on using the same linter settings.
+- Add the [.eslintrc](https://github.com/codefellows-seattle-301d4/01-mobile-first/blob/master/.eslintrc) config file to the root of your repo, so we are all on using the same linter settings.
 
 ## User Stories: Minimum Viable Product (MVP)
 Let these user stories guide your development:
