@@ -12,4 +12,4 @@
 
 ## Videos
 
-- [class-02 playlist] ()
+- [class-02 playlist coming soon] ()
