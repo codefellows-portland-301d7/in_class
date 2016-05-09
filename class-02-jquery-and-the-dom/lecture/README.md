@@ -12,4 +12,4 @@
 
 ## Videos
 
-- [class-01 playlist] (https://www.youtube.com/watch?v=J1_y5Y7XhLU&list=PLVngfM2hsbi8gIVLWmnvSc975LAPYInrA&index=1)
+- [class-02 playlist] ()
