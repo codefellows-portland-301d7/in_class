@@ -19,7 +19,7 @@ Let these user stories guide your development:
 
 ## Technical Requirements and Grading Rubric
   - Think of some ideas for your source data, and code it up in its **own file**! Build out an array of three objects to   start with, all having similar properties.
-  - Allow a new .js file help modify this new source code to help render it to the DOM:
+  - Create a new .js file with the appropriate methods to help modify your source data to help render it to the DOM:
   - Use good Object Oriented code: Create a constructor function for projects or source data.
   - Leave as little in the `window` (global) namespace as possible: attach functions to objects, etc.
   - Use jQuery to `clone` the example markup for each project, as you add additional content.
