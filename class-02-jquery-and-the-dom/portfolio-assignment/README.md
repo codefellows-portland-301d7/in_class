@@ -23,4 +23,4 @@ Let these user stories guide your development:
   - Leave as little in the `window` (global) namespace as possible: attach functions to objects, etc.
   - Use jQuery to `clone` the example markup for each project, as you add additional content.
   - Your "Project" prototype should have a `.toHtml()` function that adds new data to the DOM.
-  - Refactor your CSS files to include a base, layout, and module structure where applicable.
+  - Refactor your CSS into a base, layout, and module structure where applicable.
