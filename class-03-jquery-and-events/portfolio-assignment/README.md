@@ -1,4 +1,4 @@
-# Portfolio assignment for class 2
+# Portfolio assignment for class 3
 
 Continue building and improving your portfolio site. Here's how you can leverage events:
 
