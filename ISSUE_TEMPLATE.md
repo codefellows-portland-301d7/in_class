@@ -7,7 +7,7 @@ _ex: What are you seeing, or what is happening?_
 
 
 ### If there is an error message, what is the error message?  
-_ex: Uncaught Reference Error: $ is not a function._
+_ex: Uncaught Reference Error: $ is not defined._
 
 ### What steps have you taken to address the problem? 
 
