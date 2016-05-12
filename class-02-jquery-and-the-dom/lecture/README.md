@@ -2,7 +2,7 @@
 
 ## Slides
 
-- [Download: class-01 jQuery & DOM](https://github.com/codefellows/seattle-301d3/files/217499/301.-.DOM.jQuery.pdf)
+- [Download: class-02 jQuery & DOM](https://github.com/codefellows/seattle-301d3/files/217499/301.-.DOM.jQuery.pdf)
 
 ##  Notes (Key Terms)
 
@@ -12,4 +12,4 @@
 
 ## Videos
 
-- [class-01 playlist] (https://www.youtube.com/watch?v=J1_y5Y7XhLU&list=PLVngfM2hsbi8gIVLWmnvSc975LAPYInrA&index=1)
+- [class-02 playlist coming soon] ()
