@@ -5,9 +5,7 @@ function Neighborhood (opts) {
 };
 
 Neighborhood.prototype.toHtml = function() {
-  var $source = $('#neighborhood-template').html();
-  var template = Handlebars.compile($source);
-  return template(this);
+  
 };
 
 neighborhoodDataSet.forEach(function(neighborhoodObject) {
