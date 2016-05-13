@@ -10,7 +10,7 @@ If you choose to use jQuery, you can assume that window.$ is available globally
 Bonus Points
 
 What happens if your code is executed more than once? Will the totals remain correct?
-What if additional styling markup is later added to the table? For example, what if each cost is wrapped in a <strong> tag? Will your code need to change?
+What if additional styling markup is later added to the table? For example, what if each cost is wrapped in a `<strong>` tag? Will your code need to change?
 
 ```  
 <table id="repair-invoice">
