@@ -12,7 +12,8 @@
   var neighborhoods = manhattan.map(function(obj) {
     return obj.properties.neighborhood;
   });  
-  ```   
+  ```  
+  
 ### Uh-oh, we have some incomplete data. We need to filter this out:
   ``` javascript
   var neighborhoods = neighborhoods.filter(function(neighborhood) {
