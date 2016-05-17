@@ -14,3 +14,9 @@ Apply some functional programming concepts to your portfolio codebase.
  
  - Think of a useful way to use `reduce`. Maybe you want to put some "fun facts stats" in your footer?  
  
+## Technical Requirements
+
+- [x] Use of at least one .map() method.
+- [x] Use of at least one .reduce() method.
+- [x] IIFE present on at least one .js file.
+ 
