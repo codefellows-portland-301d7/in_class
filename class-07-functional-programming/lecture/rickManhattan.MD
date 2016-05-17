@@ -2,7 +2,7 @@
 
 ## Grab the geoJSON
 1. Copy the contents in [RAW](https://gist.githubusercontent.com/patci/821109b7c578c3f1f676/raw/f84730d2fbd14967367299ff38117ab821185f81/manhattanGeo.JSON) (Original gist found [here](https://gist.github.com/patci/821109b7c578c3f1f676)).
-2. In the dev console, save the copied JSON into a `manhattan` var.
+2. In the dev console, save the copied geoJSON into a `manhattan` var.
 
 ## Grab the array and transform it!  
 1. Set `manhattan = manhattan.features` which is an array.  
