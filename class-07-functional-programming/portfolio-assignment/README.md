@@ -1,6 +1,6 @@
 # Assignment for Class 7 - Functional Programming
 
-Scopes and closures and IIFE's, oh my!
+Scopes and closures and IIFE's, oh my! :grimacing:
 
 Apply some functional programming concepts to your portfolio codebase.
 
