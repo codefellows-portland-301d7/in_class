@@ -17,7 +17,7 @@
 ### Let's create a function to help us remove duplicates
   ``` javascript
   function removeDuplicates(value, index, array) {
-    return array.indexOf(value) == index;
+    return array.indexOf(value) === index;
   };
   ```  
 ### We can chain together map and filter  
@@ -26,5 +26,14 @@
     return obj.properties.neighborhood;
   })
   .filter(removeDuplicates);
+  ```  
+### Similar functionality, except with reduce!
+  ``` javascript  
+  neighborhoods.reduce(function(names, name) {
+    if(names.indexOf(name) === -1) {
+      names.push(name);
+    }
+    return names;
+  }, []);
   ```  
   
