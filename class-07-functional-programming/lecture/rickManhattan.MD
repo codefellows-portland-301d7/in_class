@@ -14,7 +14,7 @@
   });  
   ```  
   
-### Uh-oh, we have some incomplete data. We need to filter this out:
+### Uh-oh, we have missing data. Let's filter this out:
   ``` javascript
   var neighborhoods = neighborhoods.filter(function(neighborhood) {
     return neighborhood !== '';
