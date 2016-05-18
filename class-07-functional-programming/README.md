@@ -2,4 +2,4 @@
 
 Step into the declarative paradigm.
 
-Pair up to work on the MVC blog, then take what you learn to your portfolio site. 
+Pair up to work on our blog, then take what you learn to your portfolio site :sunglasses:
