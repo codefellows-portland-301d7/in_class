@@ -8,7 +8,7 @@ Apply some functional programming concepts to your portfolio codebase.
  
  - Use `map` where you are transforming one collection into another.  
  
- - Enclose the contents of each script file in an IIFE, that exports your high-level objects.  
+ - In at least one place, enclose the contents of a script file in an IIFE, that exports your high-level objects.  
  
  - Refactor any parts of your app that could be more loosely coupled. Make smaller functions that can accept and expect the  return values of other functions!  
  
