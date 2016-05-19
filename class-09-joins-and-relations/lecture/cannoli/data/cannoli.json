@@ -76,5 +76,23 @@
     "size": "large",
     "price": 7.00,
     "description": "That's a lot of cookies and cream, you know?"
+  },
+  {
+    "flavor": "Espresso",
+    "size": "small",
+    "price": 3.00,
+    "description": "The Seattle staple flavor: put a short coffee in it."
+  },
+  {
+    "flavor": "Espresso",
+    "size": "medium",
+    "price": 4.50,
+    "description": "Tall latte to go, no foam."
+  },
+  {
+    "flavor": "Espresso",
+    "size": "large",
+    "price": 7.00,
+    "description": "Your grande quad-shot latte of the day, except edible instead of drinkable."
   }
 ]
