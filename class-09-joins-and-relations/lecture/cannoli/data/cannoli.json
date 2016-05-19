@@ -1,6 +1,6 @@
 [
   {
-    "flavor": "Vannila",
+    "flavor": "Vanilla",
     "size": "medium",
     "price": 4.50,
     "description": "Our staple. This medium-bodied cannoli has everything you ever wanted in a cannoli."
@@ -8,37 +8,37 @@
   {
     "flavor": "Tiramisu",
     "size": "large",
-    "price": 6.50,
+    "price": 7.00,
     "description": "Big Italy! This bold cannoli also has a sweet side."
   },
   {
     "flavor": "Dorito",
     "size": "small",
-    "price": 2.50,
+    "price": 3.00,
     "description": "The little chip."
   },
   {
-    "flavor": "Vannila",
+    "flavor": "Vanilla",
     "size": "small",
-    "price": 2.50,
+    "price": 3.00,
     "description": "Just a sample of greatness."
   },
   {
     "flavor": "Dorito",
     "size": "large",
-    "price": 6.50,
+    "price": 7.00,
     "description": "A chip or two on its shoulder, watch out!"
   },
   {
     "flavor": "Tiramisu",
     "size": "small",
-    "price": 2.50,
+    "price": 3.00,
     "description": "Leave the judgement, take the cannoli."
   },
   {
-    "flavor": "Vannila",
+    "flavor": "Vanilla",
     "size": "large",
-    "price": 6.50,
+    "price": 7.00,
     "description": "My personal favorite."
   },
   {
@@ -52,5 +52,29 @@
     "size": "medium",
     "price": 4.50,
     "description": "Il mio bisnonno era da Fano."
-  }
+  },
+  {
+    "flavor": "Lemon",
+    "size": "small",
+    "price": 3.00,
+    "description": "Citrus cream cannoli, oh my."
+  },
+  {
+    "flavor": "Lemon",
+    "size": "large",
+    "price": 7.00,
+    "description": "Citrus cream cannoli, oh my."
+  },
+  {
+    "flavor": "Cookies and Cream",
+    "size": "small",
+    "price": 3.00,
+    "description": "I heard you liked cookies in your cream so I made this cannoli."
+  },
+  {
+    "flavor": "Cookies and Cream",
+    "size": "large",
+    "price": 7.00,
+    "description": "I heard you liked cookies in your cream so I made this cannoli."
+  }  
 ]
