@@ -63,7 +63,7 @@
     "flavor": "Lemon",
     "size": "large",
     "price": 7.00,
-    "description": "Citrus cream cannoli, oh my."
+    "description": "Good choice. More citrus, more better."
   },
   {
     "flavor": "Cookies and Cream",
@@ -75,6 +75,6 @@
     "flavor": "Cookies and Cream",
     "size": "large",
     "price": 7.00,
-    "description": "I heard you liked cookies in your cream so I made this cannoli."
-  }  
+    "description": "That's a lot of cookies and cream, you know?"
+  }
 ]
