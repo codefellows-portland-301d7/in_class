@@ -1,6 +1,8 @@
 (function(module) {
   function Zip (opts) {
-    for (keys in opts) this[keys] = opts[keys];
+    for (key in opts) {
+      this[key] = opts[key];
+    }
   };
 
   Zip.all =  [];
