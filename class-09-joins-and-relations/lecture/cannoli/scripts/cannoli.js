@@ -3,7 +3,7 @@
     for (keys in opts) this[keys] = opts[keys];
   };
 
-  Cannoli.all =  [];
+  Cannoli.all = [];
 
   Cannoli.createTable = function() {
     webDB.execute(
@@ -32,7 +32,7 @@
         });
       }
     });
-  }
+  };
 
   Cannoli.prototype.insertRecord = function() {
     webDB.execute(
