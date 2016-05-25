@@ -15,7 +15,7 @@ We'll be using Heroku as our production server. Heroku is a "Platform as a Servi
  1. As a developer, I want my secret tokens accessed only through environment variables, so that I can keep them secure.
   - Set the proper env vars on your local system.
 
-## User Stories: Stretch Goals
+## Stretch Goals:
  1. As a site owner, I want [blog.my-own-domain-name.io] hooked up to my Heroku app, so that I don't have to explain to people how to spell "myblog.herokuapp.com" over the phone.
 
 ## Technical Requirements and Grading Rubric
