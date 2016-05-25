@@ -1,6 +1,6 @@
 # Portfolio Assignment for Class 13 -  Production Deployment
 
-Ready to share your portfolio with the world? Yes! Your mom will be so proud.
+Ready to share your portfolio with the world? Yes!
 
 Use what you practiced in pairs to deploy your portfolio site. The user stories are basically the same.
 
