@@ -18,7 +18,7 @@ Some hints to get going:
 Let these user stories guide your development:
  1. As a developer, I need my site to use valid and semantic markup, so that employers will love me.
  1. As the creator, I need the page to link to my social and GitHub pages, so that visitors can follow me, and I can build my audience.
- 1  As a developer, I need portfolio items displayed with a repeatable template, so that I can reuse it, and abstract out the details for individual projects.
+ 1. As a developer, I need portfolio items displayed with a repeatable template, so that I can reuse it, and abstract out the details for individual projects.
  1. As a visitor, I want the images to be responsive, so that content stays properly proportioned.
  1. As a visitor, I want the viewport properly sized, so that content fits all the size I have available.
  1. As a visitor, I want the primary nav to be responsive, so that I can get around using any device.
