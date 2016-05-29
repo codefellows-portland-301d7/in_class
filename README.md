@@ -144,7 +144,7 @@ Enter the following into your Terminal:
 6.  `cd my-forked-labs`
 7.  Back here on GitHub, head to the separate GitHub site where all lab assignments can be found: https://github.com/codefellows-seattle-301d7
 8.  You may fork and clone the available repos into your `my-forked-labs` folder.
-9.  Be sure to add the `upstream` remote for each one with git:
+9.  Be sure to add the `upstream` remote for each one with git:  
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
 
 Congrats! You're all done.
