@@ -143,7 +143,7 @@ Linter and linter-eslint should be on that list, like in this screen shot:
 5.  We highly value pair programming! On days where you begin as the navigator, you will clone your **partner's** lab assignment into the `partners-forked-labs` directory when it is your turn to be the driver.
 6.  `cd my-forked-labs`
 7.  Back here on GitHub, head to the separate GitHub site where all lab assignments can be found: https://github.com/codefellows-seattle-301d7
-8.  You may fork and clone the available repos into your `my-forked-labs` folder.
+8.  You may fork and clone the available repos into your `my-forked-labs` folder. These repositories will periodically be added/updated throughout the course. Therefore:
 9.  Be sure to add the `upstream` remote for each one with git:  
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
 
