@@ -35,7 +35,7 @@ Assignments are submitted using a professional-grade git-flow. If you haven't do
 
 ## Install Atom
 
-If you haven't already, install [Atom](https://atom.io). If you have used an advanced text editor like Sublime Text, then Atom will feel familiar to you. Atom is free, open-source, cross-platform, and has a wide array of useful plug-ins available. Please use Atom during Code 301. (And yes...if you are proficient with another text editor that you *love*, you may use that instead)
+If you haven't already, install [Atom](https://atom.io). If you have used an advanced text editor like Sublime Text, then Atom will feel familiar to you. Atom is free, open-source, cross-platform, and has a wide array of useful plug-ins available. Please use Atom during Code 301. (If you are proficient with another text editor that you *love*, you may use that instead)
 
 [Atom's documentation](https://atom.io/docs/latest) is top-notch. Review it now to familiarize yourself with the basics. Make sure you're looking at the docs for the latest version. If you find that you are unable to call atom in the terminal, you may need to enable shell commands through Atom by first opening it through your graphical desktop interface, and selecting `Install Shell Commands` in the drop-down menu.
 
@@ -118,7 +118,8 @@ You should get two success messages while it installs the linter and linter-esli
 Enter the following into your Terminal:
 
 `apm ls`  
-You should get back a long list, and at the end you should receive a list of packages you installed for Atom. Linter and linter-eslint should be on that list, like in this screen shot:
+You should get back a long list, and at the end you should receive a list of packages you installed for Atom.   
+Linter and linter-eslint should be on that list, like in this screen shot:
 
  ![screen shot 2016-05-28 at 11 33 31 pm](https://cloud.githubusercontent.com/assets/12869788/15631728/a816191c-252c-11e6-8cb4-5c757f240a50.png)
  
