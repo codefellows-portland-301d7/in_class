@@ -117,11 +117,10 @@ You should get two success messages while it installs the linter and linter-esli
 
 Enter the following into your Terminal:
 
-`apm ls`
+`apm ls`  
+You should get back a long list, and at the end you should receive a list of packages you installed for Atom. Linter and linter-eslint should be on that list, like in this screen shot:
 
- ![](http://i.imgur.com/Jlv6LeP.png)
-
- You should get a long list and at the end you should get a list of packages you installed for Atom. Linter and linter-eslint should be on that list.
+ ![screen shot 2016-05-28 at 11 33 31 pm](https://cloud.githubusercontent.com/assets/12869788/15631728/a816191c-252c-11e6-8cb4-5c757f240a50.png)
  
 ##Create and setup your 301 directory structure
  
