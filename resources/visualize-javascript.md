@@ -1,4 +1,4 @@
-### Head here to test out some code with a visual execution representation!
+### Test out some code in a visual execution environment!
 
 [Playground Environment](http://www.pythontutor.com/javascript.html)
 
