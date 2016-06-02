@@ -1,5 +1,6 @@
 ```javascript
-// This function accepts two parameters: an array of arrays, and the resulting array of averages. Each nested array is a collection of number values.
+/* This function accepts two parameters: an array of arrays, and the resulting 
+array of averages. Each nested array is a collection of number values. */
 
 array1 = [1,2,3,4,5];
 array2 = [2,4,6,8,10];
