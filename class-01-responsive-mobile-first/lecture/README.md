@@ -3,7 +3,7 @@
 ##  Slides
 - [COMING SOON: Download: Responsive & Mobile First](https://about:blank)
 
-##  Notes (Key Terms)
+##  Notes & Key Terms
 - **meta viewport tag**: allows site to scale according to developer specifications.
 - **media queries**: conditionally modify the layout of a webpage based on the needs of the app.
 - **SMACSS**: Scalable & Modular Architecture for CSS. A way to organize your CSS files into meaningful categories.
@@ -15,4 +15,3 @@
 
 ##  Videos
 
-- [class-01 playlist](https://www.youtube.com/playlist?list=PLVngfM2hsbi_0-8X5PmHBM_7lWbLJEGAA)
