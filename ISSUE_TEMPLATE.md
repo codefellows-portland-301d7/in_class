@@ -11,8 +11,8 @@ _ex: Uncaught Reference Error: $ is not defined._
 
 ### What steps have you taken to address the problem? 
 
-1. First I...
-1. Then I...
+1. First I
+1. Then I
 
 
 ## Please place an 'x' inside each set of square brackets before clicking "Submit new issue":
