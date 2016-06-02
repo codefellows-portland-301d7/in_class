@@ -1,7 +1,7 @@
 # Responsive & Mobile-First Design
 
 ##  Slides
-- [Download: Responsive & Mobile First](https://github.com/codefellows/seattle-301d3/files/218039/301.-.Mobile.Responsive.pdf)
+- [COMING SOON: Download: Responsive & Mobile First](https://about:blank)
 
 ##  Notes (Key Terms)
 - **meta viewport tag**: allows site to scale according to developer specifications.
