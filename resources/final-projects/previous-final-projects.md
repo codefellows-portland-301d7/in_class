@@ -10,3 +10,7 @@ _[Rep Findr on GitHub](https://github.com/stefuhnee/rep-findr)_
 - SNAP To It:  
 https://snaptoit.firebaseapp.com/  
 _[SNAP on GitHub](https://github.com/mevans72/code-301-final-project)_
+
+-Art Quest:
+https://artquest-seattle.firebaseapp.com/
+_[Art Quest on GitHub](https://github.com/tanyaweaver/artquest-seattle)_
