@@ -13,6 +13,7 @@ Some hints to get going:
 - Start with a **rough** pen & paper "wireframe" sketch of what you want your portfolio site to look like.
 - Work through as many of the user stories as you can, but always submit what you have by the due date. Don't let "if only..." ideas keep you from turning something in!
 - Add the [.eslintrc](https://github.com/codefellows-seattle-301d7/01-mobile-first/blob/master/.eslintrc) config file to the root of your repo, so we are all on the same linter settings.
+- Also include a [.gitignore](https://github.com/codefellows-seattle-301d7/01-mobile-first/blob/master/.gitignore) file in your root directory to prevent non-relevant files from being pushed to GitHub.
 
 ## User Stories: Minimum Viable Product (MVP)
 Let these user stories guide your development:
