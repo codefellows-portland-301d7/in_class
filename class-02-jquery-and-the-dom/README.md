@@ -18,7 +18,7 @@ The majority of your daily programming practice should come from working on your
 
 Your first independent assignment can be found in the `portfolio-assignment` subdirectory of every class folder.
 
-## Helpful Resources for Class 1
+## Helpful Resources
  - Watch these videos on Agile Software Development:
   - https://www.youtube.com/watch?v=OJflDE6OaSc  
   - https://www.youtube.com/watch?v=XU0llRltyFM
