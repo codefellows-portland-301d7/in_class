@@ -1,3 +1,5 @@
 Responsive Web Design Resources
 
 [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+[Exemplary Site: Chuting Star](http://www.chutingstar.com/)
