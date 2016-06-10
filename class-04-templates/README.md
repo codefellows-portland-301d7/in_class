@@ -7,7 +7,7 @@ As we get more sophisticated, this is a good time to ensure our CSS styles are w
 ## Useful Resources
  - [Google Fonts](www.google.com/fonts)
  - [em VS rem](http://zellwk.com/blog/rem-vs-em/)
- - [Treehouse: Web Typography Course](teamtreehouse.com/library/web-typography)
- - [Practical Topography Site](practicaltypography.com/)
- - [A More Modern Scale for Web Typography via typecast.com](typecast.com/blog/a-more-modern-scale-for-web-typography)
- - [Type Scale Tool via type-scale.com](type-scale.com)
+ - [Treehouse: Web Typography Course](http://teamtreehouse.com/library/web-typography)
+ - [Practical Topography Site](http://practicaltypography.com/)
+ - [A More Modern Scale for Web Typography via typecast.com](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+ - [Type Scale Tool via type-scale.com](http://type-scale.com)
