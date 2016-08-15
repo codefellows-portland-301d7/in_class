@@ -1,11 +1,17 @@
 (function(module) {
   function Zip (opts) {
-    for (key in opts) {
+    for (var key in opts) {
       this[key] = opts[key];
     }
   };
 
-  Zip.all =  [];
+  Zip.all = [];
+
+  function createTable() {
+    webDB.execute(
+      
+    );
+  };
 
   Zip.fetchAll = function() {
     $.getJSON('/data/manhattan.json', function(data) {
@@ -18,13 +24,13 @@
         aZipInstance.insertRecord();
       });
     });
-  }
+  };
 
   Zip.prototype.insertRecord = function() {
     webDB.execute(
       [
         {
-          'sql': 'INSERT INTO zips (zip, neighborhood, county) VALUES (?, ?, ?);',
+
           'data': [this.zip, this.neighborhood, this.county]
         }
       ]
