@@ -46,9 +46,9 @@ If you haven't already, install [Atom](https://atom.io). If you have used an adv
 #### Linux instructions
 
   To install Node, open your Terminal, and copy and paste the following line, then hit Enter:
-  
+
   `apt-get install nodejs`
-  
+
   If this did not work, try the following:
 
   `curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -`
@@ -56,10 +56,10 @@ If you haven't already, install [Atom](https://atom.io). If you have used an adv
   It will churn away for a while, and then once it's done you can run the following command:
 
   `sudo apt-get install nodejs`
-  
+
   If, once again, you did not achieve success, try [these instructions to build from source](https://gist.github.com/toastynerd/d3e563522977f6750c32).
-  
-  
+
+
 
 #### Mac instructions
 
@@ -122,11 +122,11 @@ You should get back a long list, and at the end you should receive a list of pac
 Linter and linter-eslint should be on that list, like in this screen shot:
 
  ![screen shot 2016-05-28 at 11 33 31 pm](https://cloud.githubusercontent.com/assets/12869788/15631728/a816191c-252c-11e6-8cb4-5c757f240a50.png)
- 
+
 ##Create and setup your 301 directory structure
- 
+
  - Navigate within your terminal to your Projects folder (or an equivalent, familiar, and easy to access folder).
- 
+
 1.  `mkdir 301` - this will be your parent folder to house your **fork** of the class repo.
 2.  `cd 301`
 3.  `mkdir lectures-repo`
@@ -142,7 +142,7 @@ Linter and linter-eslint should be on that list, like in this screen shot:
 10.  `mkdir partners-forked-labs`
 5.  We highly value pair programming! On days where you begin as the navigator, you will clone your **partner's** lab assignment into the `partners-forked-labs` directory when it is your turn to be the driver.
 6.  `cd my-forked-labs`
-7.  Back here on GitHub, head to the separate GitHub site where all lab assignments can be found: https://github.com/codefellows-seattle-301d7
+7.  Back here on GitHub, head to the separate GitHub site where all lab assignments can be found: https://github.com/codefellows-portland-301d5
 8.  You may fork and clone the available repos into your `my-forked-labs` folder. These repositories will periodically be added/updated throughout the course. Therefore:
 9.  Be sure to add the `upstream` remote for each one with git:  
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
