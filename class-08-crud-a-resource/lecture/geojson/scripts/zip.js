@@ -9,7 +9,7 @@
 
   function createTable() {
     webDB.execute(
-      
+
     );
   };
 
@@ -30,7 +30,7 @@
     webDB.execute(
       [
         {
-
+          
           'data': [this.zip, this.neighborhood, this.county]
         }
       ]

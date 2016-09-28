@@ -7,7 +7,13 @@ function Neighborhood (opts) {
 };
 
 Neighborhood.prototype.toHtml = function() {
+  var source = $('#neighborhood-template').html();
+  var template = Handlebars.compile(source);
+  this.whateverNumber = 1 + 1;
 
+  var html = template(this);
+
+  return html;
 };
 
 neighborhoodDataSet.forEach(function(neighborhoodObject) {

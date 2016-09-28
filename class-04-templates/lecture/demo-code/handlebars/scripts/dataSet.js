@@ -4,7 +4,10 @@ neighborhoodDataSet = [
     city:        'Seattle',
     population:  '23,566',
     founded:     '1820',
-    body:        '<p>This is example text to show you how <strong>HTML</strong> can be escaped using <em>Handlebars</em>.'
+    body:        '<p>This is example text to show you how <strong>HTML</strong> can be escaped using <em>Handlebars</em>.',
+    attractions: {
+      statue: 'weird rocket'
+    }
   },
   {
     name:        'Ballard',
