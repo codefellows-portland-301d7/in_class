@@ -9,7 +9,7 @@
 
   function createTable() {
     webDB.execute(
-
+      'CREATE TABLE IF NOT EXISTS zips (id INTEGER PRIMARY KEY, zip INTEGER, neighborhood VARCHAR, county VARCHAR)'
     );
   };
 
@@ -30,7 +30,7 @@
     webDB.execute(
       [
         {
-          
+          sql: 'INSERT INTO zips (zip, neighborhood, county) VALUES (?, ?, ?);',
           'data': [this.zip, this.neighborhood, this.county]
         }
       ]
