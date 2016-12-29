@@ -36,6 +36,7 @@
       ]
     );
   };
-
+  createTable()
+  Zip.fetchAll()
   module.Zip = Zip;
 })(window);

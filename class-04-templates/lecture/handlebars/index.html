@@ -4,6 +4,17 @@
     <meta charset="UTF-8">
     <title>Seattle Neighborhood Data</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/x-handlebars-template" id="neighborhood-template">
+      <h2>The Neighborhood of {{name}} in the City of {{city}}</h2>
+      <p>Population of {{population}}</p>
+      <p>Founded in {{founded}}</p>
+      {{{body}}}
+      {{#if attractions.statue}}
+        <p>Notable Attraction: {{attractions.statue}}</p>
+      {{else}}
+        <p>Notable Attraction: NOTHING</p>
+      {{/if}}
+    </script>
   </head>
   <body>
     <header class="site-header clearfix">
@@ -19,7 +30,9 @@
     <footer>
       &copy; 2016 Fake Data Limited
     </footer>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.js"></script>
     <script src="scripts/dataSet.js"></script>
     <script src="scripts/neighborhood.js"></script>
   </body>
